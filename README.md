@@ -10,7 +10,7 @@ We initiate blocks with data further we implement a chain of these blocks and fi
 
 ## Setting the playing field:
 * Install nodejs.
- `https://nodejs.org/en/download/current/`
+ https://nodejs.org/en/download/current/
 * Required libraries:
     * crypto-js
 
